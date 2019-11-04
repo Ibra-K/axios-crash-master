@@ -1,5 +1,3 @@
-# Axios Crash Course
+# Axios Crash 
 
-> These are the files for the YouTube Axios crash course.
-
-"start.js" is just the event listeners and empty functions. "main.js" is the completed code
+Axios project for training basic code
